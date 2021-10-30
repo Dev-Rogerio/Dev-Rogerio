@@ -8,7 +8,7 @@
 - ![Rogerio Almeida GitHub stats](https://github-readme-stats.vercel.app/api?username=Dev-Rogerio&show_icons=true&theme=radical)
 
 
-<div stuly="display:inline_block><br/>
+<div style="display:inline_block><br/>
             img algin="center" alt="html" src=https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white
 
 
