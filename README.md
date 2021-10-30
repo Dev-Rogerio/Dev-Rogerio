@@ -9,8 +9,7 @@
 
 
 <div style="display:inline_block><br/>
-          <img algin="center" alt="html" src=https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white />
-                                        </div>
+<img algin="center" alt="html" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" /></div>
 
 
 - ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
